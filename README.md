@@ -25,7 +25,11 @@ DISPLAY FORMAT:
   - Pressure distribution over its surfaces with transiiton points
   - Real time fitness history and best individuals of each generation
 
+    Fitness history example #1:
     ![naca4optf1](https://github.com/user-attachments/assets/cc3aafba-fa43-4f81-8ca9-19b4e794e1e0)
+
+    Fitness history example #2:
+    ![naca4optf2](https://github.com/user-attachments/assets/b27bf057-a857-4fc6-baf0-8e4da0ecce4a)
 
 TO  BE ADDED:
   - Using CST parametrization instead of NACA 4 digit airfoils 
